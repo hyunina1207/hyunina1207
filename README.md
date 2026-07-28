@@ -10,6 +10,10 @@ I am interested in Data Analytics, Business Intelligence, and Business Analysis.
 
 My academic journey has given me a unique combination of business knowledge and technical skills. Before transferring to the University of Utah, I earned an Associate Degree in Business from Salt Lake Community College and studied Computer Science at Guangdong University of Finance in China. These experiences built a strong foundation in business, programming, and analytical thinking.
 
+---
+
+### 🚀 About Me
+
 * 🌍  I'm based in Salt Lake City, UT
 * 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/yayi-yu-3607b1327/)
 * ✉️  You can contact me at [hyunina1207@gmail.com](mailto:hyunina1207@gmail.com)
