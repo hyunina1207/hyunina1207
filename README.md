@@ -10,6 +10,8 @@ I am interested in Data Analytics, Business Intelligence, and Business Analysis.
 
 My academic journey has given me a unique combination of business knowledge and technical skills. Before transferring to the University of Utah, I earned an Associate Degree in Business from Salt Lake Community College and studied Computer Science at Guangdong University of Finance in China. These experiences built a strong foundation in business, programming, and analytical thinking.
 
+I have also completed the Google Data Analytics Professional Certificate, where I developed skills in data cleaning, analysis, visualization, and tools such as SQL, Excel, Tableau, and Python. I am continuing to build my portfolio through data projects focused on solving real-world business problems.
+
 ---
 
 ### 🚀 About Me
