@@ -36,4 +36,4 @@ I have also completed the Google Data Analytics Professional Certificate, where 
 
 - Google Data Analytics Professional Certificate
   - Issued by Coursera
-  - Credential: [Google Data Analytics Certificate](https://www.credly.com/badges/b78036b7-97ad-46ac-9ae0-124f5531f028/linked_in?t=tifn6j)
+  - [Google Data Analytics Certificate](https://www.credly.com/badges/b78036b7-97ad-46ac-9ae0-124f5531f028/linked_in?t=tifn6j)
